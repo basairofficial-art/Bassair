@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://basairofficial-art.github.io/Bassair/sitemap.xml
